@@ -1,1 +1,1 @@
-I am currently using git for a senior project.
+I am currently using git for a senior project.Change from new_branch
