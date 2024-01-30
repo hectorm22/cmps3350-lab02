@@ -1,5 +1,9 @@
 // Hector Martinez
-// CMPS 3350 - lab 02 is all about source control
+<<<<<<< HEAD
+// CMPS 3350 - lab 02 is all about source control AND git
+=======
+// CMPS 3350 - lab 02 is all about git)
+>>>>>>> new_branch
 // Prints each command-line argument passed into the program, one per line
 #include <stdio.h>
 
